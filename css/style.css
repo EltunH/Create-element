@@ -1,0 +1,31 @@
+#main{
+    width: 100%;
+    min-height: 400px;
+    background: aquamarine;
+    float: left;
+}
+
+#footer{
+    width: 100%;
+    min-height: 400px;
+    background: green;
+    float: left;
+}
+
+.sty{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    margin: 5px;
+    float: left;
+}
+
+.serd{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://i.redd.it/b4789iqkw2x51.jpg');
+    background-size: cover;
+    border-radius: 50%;
+    margin: 5px;
+    float: left;
+}
